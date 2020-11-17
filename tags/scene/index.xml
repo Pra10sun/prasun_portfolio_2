@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on PRASUN NASKAR</title>
+    <link>https://Pra10sun.github.io/prasun_portfolio_2/tags/scene/</link>
+    <description>Recent content in scene on PRASUN NASKAR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://Pra10sun.github.io/prasun_portfolio_2/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Project 3: Bio-informatics) Computational Drug Design</title>
+      <link>https://Pra10sun.github.io/prasun_portfolio_2/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pra10sun.github.io/prasun_portfolio_2/post/project-1/</guid>
+      <description>Used SMILES notation to compute Lipinski&amp;rsquo;s descriptors, collected the data from ChEMBLdatabase. Performed exploratory Data Analysis, computed molecular descriptors using PADELDescriptorssoftware &amp;amp; prepared (X, Y) data frames. Applied Random Forest Algorithm &amp;amp; for better understanding of accuracy level, plotted a graph using matplotlib library.    This Project’s GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

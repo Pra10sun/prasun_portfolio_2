@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hola !  on PRASUN NASKAR</title>
+    <link>https://Pra10sun.github.io/prasun_portfolio_2/</link>
+    <description>Recent content in Hola !  on PRASUN NASKAR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jun 2020 11:13:32 -0400</lastBuildDate><atom:link href="https://Pra10sun.github.io/prasun_portfolio_2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Project 1: Financial Analysis) Analyze the Pandemic Stock Market &amp; Predict Stock price</title>
+      <link>https://Pra10sun.github.io/prasun_portfolio_2/post/project-3/</link>
+      <pubDate>Thu, 11 Jun 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://Pra10sun.github.io/prasun_portfolio_2/post/project-3/</guid>
+      <description>Collected S&amp;amp;P stock history data from tiilingo(financial data platform) using free api key. Analysed the effect of GAFAM on S&amp;amp;P stock, used graphical representation. Applied some ml models, did statistical analysis. After that LSTM was found out to be the best-fit model.    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>(Project 2: Social Application) 25 Days Lockdown Air Quality Data analysis &amp; aiq index prediction in Kolkata</title>
+      <link>https://Pra10sun.github.io/prasun_portfolio_2/post/project-5/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://Pra10sun.github.io/prasun_portfolio_2/post/project-5/</guid>
+      <description>Collected real-time data &amp;amp; historical data from cpcb , plotted city map using cartopy package. plotted a graph, comparing pm2.5 values between 25 days before lockdown vs 25 days under lockdown using historical data. Predicted aiq index using different ML models. Plotted graph using seaborn library.    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>(Project 4: Sports Analytics) IPl-data-analysis-2008-2019</title>
+      <link>https://Pra10sun.github.io/prasun_portfolio_2/post/project-4/</link>
+      <pubDate>Sat, 11 Jan 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://Pra10sun.github.io/prasun_portfolio_2/post/project-4/</guid>
+      <description>found out number of matches win by individual team till 2019. Identify the year, in which kkr win maximum number of matches. Visualize kkr batting &amp;amp; bowling performances using pie chart.    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>(Project 3: Bio-informatics) Computational Drug Design</title>
+      <link>https://Pra10sun.github.io/prasun_portfolio_2/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pra10sun.github.io/prasun_portfolio_2/post/project-1/</guid>
+      <description>Used SMILES notation to compute Lipinski&amp;rsquo;s descriptors, collected the data from ChEMBLdatabase. Performed exploratory Data Analysis, computed molecular descriptors using PADELDescriptorssoftware &amp;amp; prepared (X, Y) data frames. Applied Random Forest Algorithm &amp;amp; for better understanding of accuracy level, plotted a graph using matplotlib library.    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>(Project 5: Data Analytics) Sales Insight Data Analysis Project in Power-BI.</title>
+      <link>https://Pra10sun.github.io/prasun_portfolio_2/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pra10sun.github.io/prasun_portfolio_2/post/project-2/</guid>
+      <description>Analysed the Aims Grid approach &amp;amp; checked market-related information from particular SQL database. Plugged mysql database ,with Power-BI&amp;amp; did data wrangling &amp;amp; currency normalization. Built Power-BI dashboard. Created a mobile view of that &amp;amp; access it inside the Power-BI application.    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Pra10sun.github.io/prasun_portfolio_2/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pra10sun.github.io/prasun_portfolio_2/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/prasun-naskar-25578716b/   GitHub: https://github.com/Pra10sun   Twitter: https://twitter.com/beforesunrise7   Medium: https://naskarprasun711.medium.com/   Facebook: https://www.facebook.com/prasun.naskar/    </description>
+    </item>
+    
+  </channel>
+</rss>
